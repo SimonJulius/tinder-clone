@@ -8,4 +8,4 @@ const GlobalStyle = createGlobalStyle`
 
 const AppStyle = styled.div``;
 
-export default { AppStyle, GlobalStyle };
+export { AppStyle, GlobalStyle };

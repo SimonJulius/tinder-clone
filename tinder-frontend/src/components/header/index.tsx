@@ -15,10 +15,11 @@ const Header = () => {
       <img
         src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
         className="tinder-image"
+        alt="tinder logo"
       />
 
       <IconButton>
-        <ForumIcon fontSize="large" className="header-icon"/>
+        <ForumIcon fontSize="large" className="header-icon" />
       </IconButton>
     </HeaderStyle>
   );
