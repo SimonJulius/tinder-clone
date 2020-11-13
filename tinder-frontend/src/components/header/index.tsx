@@ -1,7 +1,7 @@
-import React from "src/components/header/node_modules/react";
-import PersonIcon from "src/components/header/node_modules/@material-ui/icons/Person";
-import ForumIcon from "src/components/header/node_modules/@material-ui/icons/Forum";
-import { IconButton } from "src/components/header/node_modules/@material-ui/core";
+import React from "react";
+import PersonIcon from "@material-ui/icons/Person";
+import ForumIcon from "@material-ui/icons/Forum";
+import { IconButton } from "@material-ui/core";
 
 import HeaderStyle from "./header.style";
 

@@ -1,4 +1,4 @@
-import styled from "src/components/card/node_modules/styled-components";
+import styled from "styled-components";
 
 const CardStyle = styled.div`
   .card {

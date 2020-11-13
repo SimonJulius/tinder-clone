@@ -1,4 +1,4 @@
-import styled from "src/components/header/node_modules/styled-components";
+import styled from "styled-components";
 
 
 const Header = styled.div.attrs(() => ({

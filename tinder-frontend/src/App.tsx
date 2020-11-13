@@ -1,4 +1,4 @@
-import React from "src/node_modules/react";
+import React from "react";
 
 import Style from "./App.style";
 import Header from "./components/header";

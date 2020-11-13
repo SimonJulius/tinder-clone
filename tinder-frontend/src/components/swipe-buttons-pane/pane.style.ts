@@ -1,4 +1,4 @@
-import styled from "src/components/swipe-buttons-pane/node_modules/styled-components";
+import styled from "styled-components";
 
 const PaneStyle = styled.div`
   position: fixed;

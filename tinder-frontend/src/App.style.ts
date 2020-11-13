@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from "src/node_modules/styled-components";
+import styled, { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
 *{
